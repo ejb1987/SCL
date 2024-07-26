@@ -39,6 +39,9 @@ Run the cells in the notebook to perform the CAPM analysis. You will obtain:
 2. The computation of CAPM beta and Jensen's alpha, which quantify the sensitivity of the stock's returns to market movements and the stock's excess return, respectively.
 3. A scatter plot comparing the weekly returns of the stock and the market index, along with the Security Characteristic Line (SCL), which represents the relationship between the excess return of the stock and the excess return of the market.
 
+![image](https://github.com/user-attachments/assets/5d011806-5100-4ce5-a4d9-5a3b039fbb62)
+
+
 ## Features
 * Average Annual Return Calculation: Computes the expected annual return for the selected stock and its corresponding market index.
 * Risk-Free Rate Adjustment: Automatically selects the appropriate market index and risk-free rate based on the stock market.
