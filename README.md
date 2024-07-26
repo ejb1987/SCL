@@ -1,4 +1,4 @@
-# CAPM Analysis Project
+# SCL Analysis Project
 
 ## Overview
 
