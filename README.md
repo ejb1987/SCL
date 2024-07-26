@@ -20,7 +20,7 @@ The Capital Asset Pricing Model (CAPM) Analysis project aims to evaluate the per
    ```
    git clone https://github.com/ejb1987/SCL.git
    cd SCL
-## Install required packages:
+2. **Install required packages**:
 Make sure you have pip installed. Then run:
    ```
    pip install -r requirements.txt
