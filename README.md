@@ -27,7 +27,8 @@ Make sure you have pip installed. Then run:
    ```
 ## Usage
 Open the Jupyter Notebook:
-jupyter notebook CAPM.ipynb
+```jupyter notebook CAPM.ipynb```
+
 Input your selected stock ticker (e.g., AAPL for Apple Inc.). For UK companies, use the format ticker.L (e.g., BP.L for BP).
 
 Run the cells in the notebook to perform the CAPM analysis. You will obtain:
