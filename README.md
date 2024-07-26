@@ -16,13 +16,14 @@ The Capital Asset Pricing Model (CAPM) Analysis project aims to evaluate the per
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
+   ```
    git clone https://github.com/ejb1987/CAPM.git
    cd CAPM
 ## Install required packages:
 Make sure you have pip installed. Then run:
-   ```   pip install -r requirements.txt ``
-
+   ```
+   pip install -r requirements.txt
+   ```
 ## Usage
 Open the Jupyter Notebook:
 jupyter notebook CAPM.ipynb
