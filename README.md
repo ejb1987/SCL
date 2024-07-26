@@ -21,8 +21,8 @@ The Capital Asset Pricing Model (CAPM) Analysis project aims to evaluate the per
    cd CAPM
 ## Install required packages:
 Make sure you have pip installed. Then run:
-pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
 ## Usage
 Open the Jupyter Notebook:
 jupyter notebook CAPM.ipynb
