@@ -19,7 +19,7 @@ The Capital Asset Pricing Model (CAPM) Analysis project aims to evaluate the per
 1. **Clone the repository**:
    ```
    git clone https://github.com/ejb1987/SCL.git
-   cd CAPM
+   cd SCL
 ## Install required packages:
 Make sure you have pip installed. Then run:
    ```
