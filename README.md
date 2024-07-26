@@ -18,7 +18,7 @@ The Capital Asset Pricing Model (CAPM) Analysis project aims to evaluate the per
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/ejb1987/CAPM.git
+   git clone https://github.com/ejb1987/SCL.git
    cd CAPM
 ## Install required packages:
 Make sure you have pip installed. Then run:
@@ -28,7 +28,7 @@ Make sure you have pip installed. Then run:
 ## Usage
 Open the Jupyter Notebook:
 ```
-jupyter notebook CAPM.ipynb
+jupyter notebook SCL.ipynb
 ```
 
 Input your selected stock ticker (e.g., AAPL for Apple Inc.). For UK companies, use the format ticker.L (e.g., BP.L for BP).
