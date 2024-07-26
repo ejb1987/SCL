@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Capital Asset Pricing Model (CAPM) Analysis project aims to evaluate the performance of selected stocks in relation to market risk. This project leverages historical stock prices, market returns, and risk-free rates to compute expected returns, alpha, beta, and visualize the relationships through scatter plots and the CAPM line.
+The Capital Asset Pricing Model (CAPM) Analysis project aims to evaluate the performance of selected stocks in relation to market risk. This project leverages historical stock prices, market returns, and risk-free rates to compute expected returns, alpha, and beta, and visualize the relationships through scatter plots and the CAPM line.
 
 ## Table of Contents
 
@@ -31,12 +31,12 @@ Input your selected stock ticker (e.g., AAPL for Apple Inc.). If the stock is a 
 
 Run the cells in the notebook to perform the CAPM analysis. You will see:
 
-1. Average annual returns and variance for both the selected stock and the related market index (US or UK).
+1. Average annual returns and variance for the selected stock and the related market index (US or UK).
 2. The calculation of CAPM beta and alpha.
 3. A scatter plot comparing weekly returns of the stock and the index, along with the CAPM line.
 
 ## Features
-* Average Annual Return Calculation: Computes the expected annual return for the selected stock.
+* Average Annual Return Calculation: Computes the expected annual return for the selected stock and related market index.
 * Risk-Free Rate Adjustment: Automatically selects the appropriate market index and risk-free rate based on the stock market.
 * Beta and Alpha Calculation: Analyzes the stock’s sensitivity to market movements and calculates its excess return.
 * Visualizations: Displays scatter plots of weekly returns and the CAPM line for better insights.
