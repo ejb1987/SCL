@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Capital Asset Pricing Model (CAPM) Analysis project aims to evaluate the performance of selected stocks in relation to market risk. This project leverages historical stock prices, market returns, and risk-free rates to compute expected returns, alpha, and beta, and visualizes the relationships through scatter plots and the Security Characteristic Line (SCL).
+The Security Characteristic Line (SCL) Analysis project aims to evaluate the performance of selected stocks in relation to market risk. This project leverages historical stock prices, market returns, and risk-free rates to compute expected returns, alpha, and beta, and visualizes the relationships through scatter plots and the SCL.
 
 
 ## Table of Contents
